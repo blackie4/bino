@@ -1,5 +1,5 @@
 /*!
  *bino.js
  *creater: Bino
- *message: coming soon
+ *message: coming soon 2
  */
